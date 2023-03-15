@@ -3,20 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="07e78656-0b8e-4ef4-9695-929da1ce4bb6" name="Changes" comment="HomeWork">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComplexNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RateLimitedPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RateLimitedTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Sequences.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SequencesImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SequencesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatsAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatsAccumulatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatsAccumulatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled4/SnilsValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled4/SnilsValidatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled4/SnilsValidatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678861399105</updated>
-      <workItem from="1678861400356" duration="2630000" />
+      <workItem from="1678861400356" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork">
       <created>1678861602355</created>
